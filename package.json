@@ -1,0 +1,20 @@
+{
+  "name": "D3-bar-chart",
+  "version": "1.0.0",
+  "description": "This repository contains the code used to create a bar chart of the US GDP, from 1947 to 2015.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cerna-pedro/us-gdp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cerna-pedro/us-gdp/issues"
+  },
+  "homepage": "https://github.com/cerna-pedro/us-gdp/"
+}
